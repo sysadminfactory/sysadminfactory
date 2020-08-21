@@ -17,5 +17,5 @@ https://raw.githubusercontent.com/ansible/ansible/devel/examples/scripts/Configu
 
 
 # Windows answer file
-https://thesleepyadmins.com/2019/05/31/create-windows-10-answer-file/
+https://thesleepyadmins.com/2019/05/31/create-windows-10-answer-file/ <br></br>
 https://www.windowscentral.com/how-create-unattended-media-do-automated-installation-windows-10
